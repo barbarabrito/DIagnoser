@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Diagnoser</string>
+    <string name="gb_tv">Valor da glicemia basal (jejum):</string>
+    <string name="gba1">Primeiro valor da glicemia dosada após a ingestão de lactose:</string>
+    <string name="gba2">Segundo valor da glicemia dosada após a ingestão de lactose: </string>
+    <string name="gba3">Terceiro valor da glicemia dosada após a ingestão de lactose:</string>
+    <string name="btn">Ok</string>
+    <string name="help">Ajuda</string>
+    <string name="about">Sobre</string>
+    <string name="textoversao_about"> Diagnoser versão 1.0</string>
+    <string name="texto_about">
+        Este app é um experimento. Seu uso não dispensa consulta médica.
+   </string>
+    <string name="texto2_about">Diagnoser é open source e está disponível em:\n github.com/barbarabrito/Diagnoser</string>
+    <string name="texto3_about"> Encontrou bugs? Reporte: \n\nbarbaramabrito@gmail.com</string>
+    <string name="texto_help">Como funciona?</string>
+    <string name="texto2_help">Para que o teste resulte positivo, a elevação de algum dos níveis
+        de glicemia após o consumo de lactose deve ser inferior a vinte por cento em relação à
+        glicemia basal (jejum).
+    </string>
+    <string name="texto3_help">Insira os valores do exame nos campos indicados e clique no botão \"Ok\" abaixo.</string>
+
+</resources>
