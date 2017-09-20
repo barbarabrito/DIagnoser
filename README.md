@@ -1,2 +1,2 @@
 # Diagnoser
-An Android app for Lactose intolerance exam
+An Android app for lactose intolerance exam
