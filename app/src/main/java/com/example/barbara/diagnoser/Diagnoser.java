@@ -15,7 +15,6 @@ import android.widget.TextView;
 
 
 
-
 public class Diagnoser extends AppCompatActivity {
 
     private TextView textViewGb;
@@ -61,12 +60,13 @@ public class Diagnoser extends AppCompatActivity {
 
                 }else {
                     CalcInt();
+
                 }
 
             }
         });
 
-        }
+    }
 
 
     public void showMsg(){
@@ -126,6 +126,11 @@ public class Diagnoser extends AppCompatActivity {
 
         }
 
+        editTextGb.setText("");
+        editTextGba1.setText("");
+        editTextGba2.setText("");
+        editTextGba3.setText("");
+
 
     }
 
@@ -160,14 +165,11 @@ public class Diagnoser extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
 
 
-        }
-
-
-
     }
 
 
 
+}
 
 
 
